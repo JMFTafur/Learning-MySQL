@@ -1,0 +1,2 @@
+SELECT COUNT(age) FROM users; -- Cuenta solo los que tienen numeros osea la edad en sus casillas o columnas
+SELECT COUNT(*) FROM users;*--Cuenta todos los usuarios, sin importar si estan en null su casilla o clumna
